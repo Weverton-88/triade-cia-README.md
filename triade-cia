@@ -1,0 +1,34 @@
+# Tríade CIA 🔐
+
+A Tríade CIA é um dos pilares fundamentais da Segurança da Informação.
+Ela representa três princípios essenciais que devem ser garantidos na proteção das informações.
+
+## 🔒 Confidencialidade
+Garante que a informação seja acessada apenas por pessoas autorizadas.
+
+**Exemplos:**
+- Controle de acesso
+- Criptografia
+- Autenticação de usuários
+
+## 🛡️ Integridade
+Assegura que a informação não seja alterada de forma não autorizada.
+
+**Exemplos:**
+- Hash
+- Controle de versões
+- Logs de auditoria
+
+## ⏱️ Disponibilidade
+Garante que a informação esteja disponível sempre que necessário.
+
+**Exemplos:**
+- Backup
+- Redundância
+- Planos de contingência
+
+## 🧠 Importância
+A ausência de qualquer um desses pilares compromete a segurança da informação como um todo.
+
+## ⚠️ Aviso Ético
+Conteúdo desenvolvido exclusivamente para fins educacionais.
